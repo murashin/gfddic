@@ -1,4 +1,4 @@
-/*  Copyright 2003-2012 Shin-ya Murakami <murashin _at_ gfd-dennou.org>
+/*  Copyright 2003-2015 Shin-ya Murakami <murashin _at_ gfd-dennou.org>
    地球流体力学辞書 gfddic
   
   format
@@ -123,6 +123,7 @@
 ちこうふう               #T35 地衡風
 ちこうりゅう             #T35 地衡流
 ちゅうくう               #T35 宙空
+ちゅうそう               #T35 中層
 でんじ                   #T35 電磁
 とうあつ                 #T35 等圧
 とうあつめん             #T35 等圧面
