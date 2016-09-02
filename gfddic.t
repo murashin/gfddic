@@ -1,24 +1,29 @@
-/*  Copyright 2003-2015 Shin-ya Murakami <murashin _at_ gfd-dennou.org>
-   地球流体力学辞書 gfddic
-  
-  format
-  読み 品詞 単語 [単語]
-  空白またはタブ区切り
- 
-  名詞や固有名詞の品詞コード表
-  品詞コード  品詞名                例
-  #T35        名詞(一般的な名詞)   
-  #T30        サ変名詞              努力, 検査
-  #JN         人名
-  #JNS        人名(姓)
-  #JNM        人名(名)
-  #KK         団体・会社名
-  #CN         地名                  東京
-  #CNS        地名(接尾語付き)      東京都
-  #JCN        人名かつ地名
-  #KJ         単漢字
-  #NN         数詞
-*/
+#define copyright /*
+# Copyright 2003-2016 Shin-ya Murakami <murashin _at_ gfd-dennou.org>
+#*/
+
+#define description /*
+#
+# 地球流体力学辞書 gfddic
+#  
+#  format
+#  読み 品詞 単語 [単語]
+#  空白またはタブ区切り
+# 
+#  名詞や固有名詞の品詞コード表
+#  品詞コード  品詞名                例
+#  #T35        名詞(一般的な名詞)   
+#  #T30        サ変名詞              努力, 検査
+#  #JN         人名
+#  #JNS        人名(姓)
+#  #JNM        人名(名)
+#  #KK         団体・会社名
+#  #CN         地名                  東京
+#  #CNS        地名(接尾語付き)      東京都
+#  #JCN        人名かつ地名
+#  #KJ         単漢字
+#  #NN         数詞
+# */
 
 、                       #T35*4015 ， ,\  ,
 。                       #KK*1 ． .\  .
@@ -69,6 +74,7 @@
 けるびん                 #JNS ケルビン Kelvin
 けるびんは               #T35 ケルビン波 Kelvin波
 けんかいめん             #T35 圏界面
+こうせい                 #T35 較正
 こりおり                 #JNS コリオリ Coriolis
 これすきー               #JNS コレスキー Choleskey
 こんたー                 #T35 コンター contour
