@@ -148,12 +148,12 @@
 ばいかんすう             #T35 陪関数
 ばいさら                 #JNS バイサラ Vaisala
 ヴぁいさら               #JNS ヴァイサラ Vaisala
-ばいさらぶらんと         #KK バイサラ-ブラント Vaisala-Brunt
-ヴぁいさらぶらんと       #KK ヴァイサラ-ブラント Vaisala-Brunt
+ばいさらぶらんと         #T35 バイサラ-ブラント Vaisala-Brunt
+ヴぁいさらぶらんと       #T35 ヴァイサラ-ブラント Vaisala-Brunt
 はそく                   #T35 波束
 はすう                   #T35 波数
 はみるとん               #JNS ハミルトン Hamilton
-はみるとにあん           #KK ハミルトニアン Hamiltonian
+はみるとにあん           #T35 ハミルトニアン Hamiltonian
 ぱりんすとろふぃー       #T35 パリンストロフィー palinstrophy
 ひょうしょう             #T35 氷床
 びょうぞう               #T35 描像
@@ -163,8 +163,8 @@
 ふくそ                   #T35 複素
 ふくそすう               #T35 複素数
 ぶらんと                 #JNS ブラント Brunt
-ぶらんとばいさら         #KK ブラント-バイサラ Brunt-Vaisala
-ぶらんとヴぁいさら       #KK ブラント-ヴァイサラ Brunt-Vaisala
+ぶらんとばいさら         #T35 ブラント-バイサラ Brunt-Vaisala
+ぶらんとヴぁいさら       #T35 ブラント-ヴァイサラ Brunt-Vaisala
 べーたこうか             #T35 ベータ効果 β効果 $\beta$効果
 べーためん               #T35 ベータ面 β面 $\beta$-面
 べーたへいめん           #T35 ベータ平面 β平面 $\beta$-平面
@@ -181,7 +181,7 @@
 めそ                     #T35 メソ
 めんせきりょく           #T35 面積力
 やこび                   #JNS ヤコビ Jacobi
-やこびあん               #KK ヤコビアン Jacobian
+やこびあん               #T35 ヤコビアン Jacobian
 やくそう                 #T35 躍層
 ゆうしょう               #T30 湧昇
 ゆうたいかく             #T35 優対角
